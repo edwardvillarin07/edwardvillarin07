@@ -2,7 +2,7 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="[https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif](https://64.media.tumblr.com/4493ebccab798ab4ac870069acb32a96/723854a34b1b633a-a4/s1280x1920/98a4f5e9f33a959cdcdc3e0c29cfbeea000298d8.gifv)">
 </p>
 
 
