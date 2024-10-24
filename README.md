@@ -1,5 +1,5 @@
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python, Java and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Java and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 <img src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coder GIF" width="1000">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardvillarin07" alt="edwardvillarin07" /></a> </p>
