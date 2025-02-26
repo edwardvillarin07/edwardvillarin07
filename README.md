@@ -25,9 +25,6 @@
 <dev>
 <center>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwardvillarin07&show_icons=true&locale=en" alt="edwardvillarin07" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardvillarin07&" alt="edwardvillarin07" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardvillarin07&show_icons=true&locale=en&layout=compact" alt="edwardvillarin07" /></p>
