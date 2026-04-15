@@ -3,5 +3,6 @@
 - 🐚 **Abalone** is an institutional-grade open-source trading terminal designed for the independent trader.
 - 🪼 **Abyssal** SIM-based Android SMS/MMS Gateway SaaS
 - 🌍 **RPW: Role Play World** is a social platform where you’re free to be you.
+- 🤓 **Brainy Students** is a platform that focus on studies.
 
   
